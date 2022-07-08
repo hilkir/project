@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* line 11, ../практика/Project Test/Sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 15, ../практика/Project Test/Sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 17, ../практика/Project Test/Sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 19, ../практика/Project Test/Sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 21, ../практика/Project Test/Sass/style.sass */
+.block_color {
+  background-color: white;
+}
+
+/* line 23, ../практика/Project Test/Sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 26, ../практика/Project Test/Sass/style.sass */
+.block .block_color {
+  color: pink;
+}
+
+/*# sourceMappingURL=style.css.map */
